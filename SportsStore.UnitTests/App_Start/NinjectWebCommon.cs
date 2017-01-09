@@ -10,7 +10,6 @@ namespace SportsStore.UnitTests.App_Start
     using Ninject.Web.Common;
     using SportsStore.WebUI.Infrastructure;
 
-
     public static class NinjectWebCommon 
     {
         private static readonly Bootstrapper bootstrapper = new Bootstrapper();
